@@ -36,7 +36,7 @@ This project is licensed under the [GNU General Public License](https://www.gnu.
 ## Acknowledgments
 
 - This implementation was inspired by Andrew Ng's Machine Learning course on Coursera.
-- The diabetes dataset used in the project is sourced from Kaggle.
+- The diabetes dataset used in the project is sourced from [Kaggle by VIKAS UKANI](https://www.kaggle.com/datasets/vikasukani/diabetes-data-set).
 
 ## Author
 
